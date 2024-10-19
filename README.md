@@ -30,12 +30,3 @@ MIT License.
 Author
 Debapratim Bhattacharjee
 
-markdown
-
-### Instructions to Add the README
-1. **Create a README.md file**: In your project directory, create a new file named `README.md`.
-2. **Copy the content**: Copy the provided markdown content into the `README.md` file.
-3. **Customize it**: Replace `your-username` with your GitHub username.
-4. **Push to GitHub**: Add the README file to your Git repository and push the changes.
-
-This shortened README provides essential information without overwhelming details.
