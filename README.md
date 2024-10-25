@@ -14,7 +14,7 @@ A simple Tkinter-based social media application that allows users to create acco
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/social-media-app.git
+   git clone https://github.com/debapratimbhattacharjee/social-media-app.git
    cd social-media-app
 Run the application:
 bash
